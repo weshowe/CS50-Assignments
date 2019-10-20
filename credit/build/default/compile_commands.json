@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/icarus/eclipse-workspace/credit/build/default",
+  "command": "/usr/bin/c++    -O3 -DNDEBUG   -o CMakeFiles/credit.dir/credit.cpp.o -c /home/icarus/eclipse-workspace/credit/credit.cpp",
+  "file": "/home/icarus/eclipse-workspace/credit/credit.cpp"
+}
+]

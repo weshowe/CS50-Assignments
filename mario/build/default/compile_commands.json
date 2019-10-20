@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/icarus/eclipse-workspace/mario/build/default",
+  "command": "/usr/bin/c++    -O3 -DNDEBUG   -o CMakeFiles/mario.dir/mario.cpp.o -c /home/icarus/eclipse-workspace/mario/mario.cpp",
+  "file": "/home/icarus/eclipse-workspace/mario/mario.cpp"
+}
+]
